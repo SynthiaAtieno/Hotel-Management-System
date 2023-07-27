@@ -10,7 +10,7 @@ echo phpinfo();
     <title>Hotel management system</title>
 </head>
 <body>
-   <h1><?php echo "Hello Hotel manager"?></h1> 
+   <h1><?php echo "Hotel manager"?></h1> 
 </body>
 </html>
 
