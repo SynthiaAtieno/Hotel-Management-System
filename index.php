@@ -11,6 +11,7 @@ echo phpinfo();
 </head>
 <body>
    <h1><?php echo "Hotel manager"?></h1> 
+   <nav><a href="#">Home</a></nav>
 </body>
 </html>
 
