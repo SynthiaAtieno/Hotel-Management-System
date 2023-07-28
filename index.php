@@ -1,5 +1,6 @@
 <?php
 echo phpinfo();
+echo "Hello";
 ?>
 
 <!DOCTYPE html>
