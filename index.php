@@ -1,6 +1,6 @@
 <?php
 echo phpinfo();
-echo "Hello";
+echo "Testing the code";
 ?>
 
 <!DOCTYPE html>
