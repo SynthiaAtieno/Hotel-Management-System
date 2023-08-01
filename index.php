@@ -13,6 +13,7 @@ echo "Testing the code";
 <body>
    <h1><?php echo "Hotel manager"?></h1> 
    <nav><a href="#">Home</a></nav>
+   <p>navbar here</p>
 </body>
 </html>
 
